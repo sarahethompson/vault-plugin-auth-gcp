@@ -1,5 +1,7 @@
 # Vault Plugin: Google Cloud Platform Auth Backend
 
+test
+
 This is a standalone backend plugin for use with [HashiCorp Vault](https://www.github.com/hashicorp/vault).
 This plugin allows for various GCP entities to authenticate with Vault.
 This is currently included in Vault distributions.
